@@ -1,1 +1,2 @@
-require("sandro")
+require("sandro.settings")
+require("sandro.lazy")
